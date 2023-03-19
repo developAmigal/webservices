@@ -1,0 +1,25 @@
+{
+   "database": {
+     "driver": "mysqli",
+     "host": "localhost",
+     "user": "amigal_dk",
+     "password": "Desd@gdh300814",
+     "name": "amigal_dk",
+     "prefix": "jf_"
+   },
+   "renderer": {
+     "type": "twig"
+   },
+   "theme": {
+     "default": "awesome"
+   },
+   "system": {
+       "display_errors":true,
+     "list_limit": "20",
+     "gzip": "0",
+     "offset": "UTC"
+   },
+   "languages": [
+     "en-GB"
+   ]
+ }

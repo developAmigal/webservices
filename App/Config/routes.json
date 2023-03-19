@@ -1,0 +1,9 @@
+{
+    "news":["\\Controllers\\NewsController",[],{"task":"index"}],
+    "news/:task":["\\Controllers\\NewsController",[],{"task":"index"}],
+    "news/:task/:id":["\\Controllers\\NewsController",{},{"task":"index","id":0}],
+    
+    "pages":["\\Controllers\\PagesController",[],{"task":"index"}],
+    "pages/:task":["\\Controllers\\PagesController",[],{"task":"index"}],
+    "pages/:task/:id":["\\Controllers\\PagesController",{},{"task":"index","id":0}]
+}
