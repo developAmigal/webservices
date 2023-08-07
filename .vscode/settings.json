@@ -1,0 +1,6 @@
+{
+    "git.allowForcePush": true,
+    "git.allowNoVerifyCommit": true,
+    "git.alwaysShowStagedChangesResourceGroup": true,
+    "github-enterprise.uri": "https://github.com/AmigalDeveloper/webservices.git"
+}
